@@ -398,6 +398,9 @@ section .heading p {
     .services-container .service h3 {
         margin-top: 30px;
     }
+    .services-container .service .s-icon {
+        margin-right: 0;
+    }
 }
 
 /* End Services Section */
