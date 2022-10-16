@@ -1,2 +1,2 @@
-# TempleteTwo
-Simple Web Responsive Page
+# TemplateTwo
+Simple Web Responsive Page Using HTML, CSS
